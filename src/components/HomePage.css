@@ -1,0 +1,45 @@
+/* HomePage.css */
+.navbar {
+    background-color: #007bff;
+    padding: 10px;
+  }
+  
+  .navbar ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .navbar ul li {
+    display: inline;
+    margin-right: 10px;
+  }
+  
+  .navbar ul li a {
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 5px 10px;
+    border-radius: 5px;
+  }
+  
+  .navbar ul li a:hover {
+    /*background-color: #0056b3;*/
+  }
+  /* HomePage.css */
+.home-page {
+    background-color: #28a745; /* Green color */
+    height: 100vh; /* Set the height to 100% of the viewport height */
+    display: flex; /* Use flexbox for centering content */
+    flex-direction: column; /* Set the flex direction to column */
+    justify-content: center; /* Vertically center the content */
+    align-items: center; /* Horizontally center the content */
+    color: #fff; /* Text color */
+  }
+ 
+  /* HomePage.css */
+.navbar ul li {
+    display: inline;
+    margin-right: 20px; /* Add margin between links */
+  }
+  
